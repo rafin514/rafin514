@@ -4,7 +4,7 @@
 💻 Aspiring Web Developer | 🌱 Lifelong Learner  
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=sanjana514&color=red&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=rafin514&color=green&style=flat-rectangle)
 ### 🚀 About Me
 
 Finance and Accounts Executive with an academic background in Economics and a growing interest in web development.  
