@@ -47,9 +47,10 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 ⭐ *Learning something new every day*
 ---
 
-### 📊 GitHub Stats
-
-[Rafin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=default)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafin514&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rafin514&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact)
 ---
