@@ -13,6 +13,12 @@ Currently focused on building strong fundamentals in front-end technologies whil
 Motivated, detail-oriented, and committed to continuous learning and professional growth.
 
 ---
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1DB4kSwpRA/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/its_rafin_?igsh=OGZ1ZHR1dWtkd2Z1)&nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rafin158)&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hm.rafin@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hm-moinul-islam-34b454318?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ### 🛠️ Skills & Tools  
 - HTML, CSS (learning)  
