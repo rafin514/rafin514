@@ -53,15 +53,18 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 ⭐ *Learning something new every day*
 ---
 
-## 🚀 My GitHub Dashboard
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=rafin514&theme=transparent&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rafin514&theme=radical&hide_border=true"/>
 </p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
