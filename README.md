@@ -60,9 +60,6 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
   <img src="https://streak-stats.demolab.com?user=rafin514&theme=github-dark&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rafin514&theme=radical&hide_border=true"/>
-</p>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
