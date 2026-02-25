@@ -55,34 +55,17 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 
 ## 📊 GitHub Stats
 
-<p align="center">
-
-<!-- Light Mode -->
-<a href="https://github.com/rafin514">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=default&hide_border=true"
-       height="200"
-       alt="GitHub Stats"
-       media="(prefers-color-scheme: light)" />
-</a>
-
-<a href="https://github.com/rafin514">
-  <img src="https://streak-stats.demolab.com?user=rafin514&theme=default&hide_border=true"
-       height="200"
-       alt="GitHub Streak"
-       media="(prefers-color-scheme: light)" />
-</a>
-
 <!-- Dark Mode -->
 <a href="https://github.com/rafin514">
   <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=github_dark&hide_border=true"
-       height="200"
+       height="170"
        alt="GitHub Stats"
        media="(prefers-color-scheme: dark)" />
 </a>
 
 <a href="https://github.com/rafin514">
   <img src="https://streak-stats.demolab.com?user=rafin514&theme=github-dark&hide_border=true"
-       height="200"
+       height="170"
        alt="GitHub Streak"
        media="(prefers-color-scheme: dark)" />
 </a>
