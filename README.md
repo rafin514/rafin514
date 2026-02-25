@@ -56,9 +56,10 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=rafin514&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=github_dark&hide_border=true" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=rafin514&theme=github-dark&hide_border=true" height="220"/>
 </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
