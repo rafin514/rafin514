@@ -55,7 +55,7 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 
 ## 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rafin514&show_icons=true&theme=github_dark&hide_border=true" height="200"/>
   <img src="https://streak-stats.demolab.com?user=rafin514&theme=github-dark&hide_border=true" height="200"/>
 </p>
