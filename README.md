@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Rafin  
 
 🎓 Economics Graduate | 💼 Finance & Accounts Executive  
-💻 Aspiring Web Developer | 🌱 Lifelong Learner  
+💻 Aspiring Web Developer | 🌱 Lifelong Learner
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=rafin514&color=red&style=flat-rectangle)
