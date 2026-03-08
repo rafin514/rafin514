@@ -21,8 +21,9 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-800080?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hm-moinul-islam-34b454318?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ### 🛠️ Skills & Tools  
-- HTML, CSS (learning)  
-- JavaScript (beginner)  
+- HTML
+- CSS  
+- JavaScript  
 - Git & GitHub  
 - VS Code  
 - Finance & Accounting  
