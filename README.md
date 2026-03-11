@@ -61,6 +61,12 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=rafin514&theme=dark&hide_border=false)<br/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture> 
+
 ### 🧰 Tech Stack
 
 <p>
@@ -73,10 +79,3 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 <img src="https://img.shields.io/badge/GitHub-212121?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-2962FF?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture> 
-
