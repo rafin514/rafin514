@@ -60,7 +60,7 @@ Motivated, detail-oriented, and committed to continuous learning and professiona
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🧑‍💻 Top Languages
-(https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafin514&layout=compact)
 ---
 
 <picture>
